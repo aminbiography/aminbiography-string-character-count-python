@@ -1,3 +1,11 @@
+Live URL:
+
+https://aminbiography.github.io/string-character-count-python/
+
+
+OR,              ..........................
+
+
 Counting Characters in a String using Python
 To count the number of characters in a string, you can use Python's built-in len() function. The len() function returns the length of an object, in this case, the number of characters in a string.
 
