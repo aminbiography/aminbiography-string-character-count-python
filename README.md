@@ -34,4 +34,4 @@ The string contains 51 characters.
 
 Note
 The len() function counts all characters in the string, including spaces, punctuation, and special characters.
-This method is simple and efficient for quick character counts in Python.
+This method is simple and efficient for quick character counts in Python.         
